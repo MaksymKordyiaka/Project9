@@ -1,0 +1,6 @@
+name: Максим
+age: 19
+course: python developer
+('name', 'Максим')
+('age', 19)
+('course', 'python developer')
